@@ -1,9 +1,3 @@
-Thanks for sharing your Colab notebook content via the OCR’d document! I’ve reviewed the code and outputs across the pages, and I now have a clear picture of your project: it’s a deep learning homework assignment (Lab 1) that tackles **regression** on the NYSE dataset (predicting stock prices) and **classification** on the Machine Predictive Maintenance dataset (predicting machine failure). You’ve implemented deep neural networks (DNNs) with PyTorch, including regularized versions with dropout and weight decay, and performed data exploration, preprocessing, and hyperparameter tuning.
-
-Below is a **badass, structured, and visually appealing README** for your GitHub repo ([https://github.com/zachary013/lab1-deep-learning](https://github.com/zachary013/lab1-deep-learning)). It’s designed to impress your teacher with clarity, professionalism, and a touch of flair using icons and Markdown formatting. I’ve assumed your notebook is either already in the repo or will be updated there as `lab1_deep_learning.ipynb`.
-
----
-
 # Lab 1: Deep Learning Unleashed 🚀
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Nets%20%26%20Beyond-blue?style=for-the-badge&logo=python)  
