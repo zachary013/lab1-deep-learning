@@ -135,54 +135,20 @@ lab1-deep-learning/
 ![image](https://github.com/user-attachments/assets/5a0fc26f-b15e-4dae-b9b9-8f4b8c9d74f5)
 ![image](https://github.com/user-attachments/assets/94d1f3b9-2c6a-40de-8dfe-526b39dc9450)
 
-
-
 ---
-
-## 🤝 Contributing
-This is my homework, so I’m not looking for pull requests—but feel free to fork it and tweak it for your own deep learning adventures! Got feedback? Hit me up via GitHub Issues.
-
----
-
-## 📜 License
-Licensed under the [MIT License](LICENSE)—use it, share it, just don’t blame me if your GPU melts! 🔥
-
----
-
-## 🙌 Shoutouts
-- **My Prof & TAs**: For dropping this dope assignment.
-- **PyTorch Crew**: For the slick framework.
-- **Kaggle**: For the datasets that made this possible.
-- Submitted by **Zachary** on **March 9, 2025**.
-
----
-
-### How to Add This to Your Repo
-1. **Create/Update `README.md`**:
-   - Copy the text above into a file named `README.md` in your repo root.
-   - Replace placeholder images (e.g., `https://via.placeholder.com/...`) with actual plot URLs from your notebook:
-     - In Colab, right-click a plot > “Copy image address” > paste it in.
-     - Or download plots, upload to GitHub, and link them (e.g., `![Loss Plot](plots/loss_reg.png)`).
-
-2. **Push It**:
-   ```bash
-   git add README.md
-   git commit -m "Add badass README for Lab 1"
-   git push origin main
-   ```
-
-3. **Optional: Add `requirements.txt`**:
-   - Create a `requirements.txt` with the dependency list above and push it too.
-
----
-
-### Final Touches
-- **Plots**: Your notebook generates loss/MAE/accuracy plots—export them from Colab and add them to the README for that extra wow factor.
-- **Polish**: If your teacher loves detail, add a section like “Lessons Learned” (e.g., “Overfitting sucks, regularization rules!”).
-- **Test It**: View it on GitHub to ensure the icons and formatting look sharp.
 
 ## Prepared by :
 
 | Avatar                                                                                                  | Name | GitHub |
 |---------------------------------------------------------------------------------------------------------|------|--------|
 | <img src="https://github.com/zachary013.png" width="50" height="50" style="border-radius: 50%"/>        | Zakariae Azarkan | [@zachary013](https://github.com/zachary013) |
+
+---
+
+## 🤝 Contributing
+This is my uni work, so I’m not looking for pull requests—but feel free to fork it and tweak it for your own deep learning adventures! Got feedback? Hit me up via GitHub Issues.
+
+---
+
+## 📜 License
+Licensed under the [MIT License](LICENSE)—use it, share it, just don’t blame me if your GPU melts! 🔥
