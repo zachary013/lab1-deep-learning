@@ -119,7 +119,7 @@ lab1-deep-learning/
 
 *Loss Plot (Regularized)*:  
 ![image](https://github.com/user-attachments/assets/58380f26-d16f-4df6-b5b8-250d250d7462)
-*(Replace with your actual plot from Colab!)*
+![image](https://github.com/user-attachments/assets/14292a67-2ac8-4183-945c-e22577db8145)
 
 ### Maintenance Classification
 - **Task**: Predict machine failure (`Target`: 0 or 1).
@@ -132,8 +132,10 @@ lab1-deep-learning/
 - **Takeaway**: SMOTE balanced the classes, and regularization kept generalization solid.
 
 *Accuracy Plot (Regularized)*:  
-![Accuracy vs Epochs](https://via.placeholder.com/400x200.png?text=Accuracy+vs+Epochs+(Reg))  
-*(Swap in your real plot!)*
+![image](https://github.com/user-attachments/assets/5a0fc26f-b15e-4dae-b9b9-8f4b8c9d74f5)
+![image](https://github.com/user-attachments/assets/94d1f3b9-2c6a-40de-8dfe-526b39dc9450)
+
+
 
 ---
 
@@ -179,4 +181,8 @@ Licensed under the [MIT License](LICENSE)—use it, share it, just don’t blame
 - **Polish**: If your teacher loves detail, add a section like “Lessons Learned” (e.g., “Overfitting sucks, regularization rules!”).
 - **Test It**: View it on GitHub to ensure the icons and formatting look sharp.
 
-This README is structured, visually popping, and shows off your work like a pro—your teacher’s gonna love it! Let me know if you want tweaks or help adding those plots! 😎
+## Prepared by :
+
+| Avatar                                                                                                  | Name | GitHub |
+|---------------------------------------------------------------------------------------------------------|------|--------|
+| <img src="https://github.com/zachary013.png" width="50" height="50" style="border-radius: 50%"/>        | Zakariae Azarkan | [@zachary013](https://github.com/zachary013) |
