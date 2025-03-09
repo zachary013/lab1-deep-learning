@@ -118,7 +118,7 @@ lab1-deep-learning/
 - **Takeaway**: Dropout and weight decay crushed overfitting—test loss stayed tight!
 
 *Loss Plot (Regularized)*:  
-![Loss vs Epochs](https://via.placeholder.com/400x200.png?text=Loss+vs+Epochs+(Reg))  
+![image](https://github.com/user-attachments/assets/58380f26-d16f-4df6-b5b8-250d250d7462)
 *(Replace with your actual plot from Colab!)*
 
 ### Maintenance Classification
